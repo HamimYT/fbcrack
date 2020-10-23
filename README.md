@@ -1,4 +1,3 @@
-![FACEBOOK CRACKER](https://github.com/zettamus/faceb>
 ## How to install
 
 ```
